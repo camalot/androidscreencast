@@ -40,3 +40,5 @@ If mouse/keyboard control doesn't work, open a command line and type :
 ## How can i help?
 - Report issues
 - submit pull requests
+
+![Screenshot](http://i.imgur.com/2c3liMJ.jpg)

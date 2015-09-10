@@ -31,6 +31,7 @@ If mouse/keyboard control doesn't work, open a command line and type :
 - Slow refresh rate (about 4-5 fps)
 - Not all keycode are mapped. See KeyMapping
 - When launching the Screencast tool I receive a message "Application Blocked by Java Security"
+  ![Error Dialog](http://i.imgur.com/xvq10RT.png)
  - See steps to fix on [Android Enthusiasts](http://android.stackexchange.com/questions/122737/when-launching-the-screencast-tool-i-receive-a-message-application-blocked-by-j). 
  
 ## Todo
